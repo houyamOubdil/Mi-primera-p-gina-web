@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(to bottom, #ff99cc, #9966ff);
+    color: #333;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #660099;
+    color: #fff;
+}
+header .logo {
+    font-size: 1.5em;
+}
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.inicio, .sobre-mi, .proyectos, .contacto {
+    padding: 50px 20px;
+    text-align: center;
+}
+.proyectos .proyecto {
+    margin: 20px 0;
+    display: inline-block;
+    text-align: left;
+    width: 45%;
+    padding[_{{{CITATION{{{_1{](https://github.com/la9una/web/tree/ba1073ae044ebb7b538a3b13f0f9598f7c410bb6/docs%2Fbootstrap%2Falignci.md)[_{{{CITATION{{{_2{](https://github.com/Area51TrainingCenter/html5_group64/tree/8b3e520df2bfcba7b14d63b3f76c3a21b2f14e29/Modulo01%2FClase04%2FREADME.md)[_{{{CITATION{{{_3{](https://github.com/AlexLeonCord/esspia/tree/cd1617355861bfadb2ca7da805b9443c3dc57512/public%2Fclient.js)
